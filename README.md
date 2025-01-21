@@ -96,7 +96,7 @@ The confusion matrix normalized by true labels highlights:
 - Misclassifications between `Shirts (6)` and `Jackets (4)`.
 - Strong performance on distinct classes like `Shoes (1)` and `Ankle Boots (9)`.
 
-![Confusion Matrix](images/confusion_matrix_test_set.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
