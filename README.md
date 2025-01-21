@@ -53,8 +53,9 @@ The project follows a structured machine learning workflow:
 - **Reshaping**:
   - Images were flattened from `(28, 28)` into `(784,)` vectors to work with traditional models like Logistic Regression.
 - **Data Splitting**:
-  - Training data: 80% for training the model.
-  - Validation data: 20% for evaluating model performance during tuning.
+    - Training set: 80% of the 60,000 training images, used for training the model.
+    - Validation set: 20% of the 60,000 training images, used for hyperparameter tuning and model selection.
+    - Test set: A separate subset of 10,000 images provided by the dataset, reserved exclusively for final evaluation.
 
 ### **3. Model Selection**
 Two models were implemented and compared:
