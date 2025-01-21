@@ -136,7 +136,7 @@ The confusion matrix normalized by true labels highlights:
 ## **How to Run**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/fashion-mnist-classification.git
+   git clone [https://github.com/crislpzalc/Fashion-MNIST-Logistic-Regression.git]
    ```
 2. Install required dependencies:
    ```bash
