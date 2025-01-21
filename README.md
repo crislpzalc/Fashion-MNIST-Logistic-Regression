@@ -1,7 +1,7 @@
 # **Fashion MNIST Classification Project**
 
 ## **Overview**
-This project tackles the challenge of classifying clothing items from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist), a dataset by Zalando containing grayscale images of 10 distinct clothing categories. It serves as a foundational exploration of machine learning techniques, focusing on building a complete pipeline using traditional models like Logistic Regression and Random Forest.
+This project tackles the challenge of classifying clothing items from the [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist), a dataset by Zalando containing grayscale images of 10 distinct clothing categories. It serves as a foundational exploration of machine learning techniques, focusing on building a complete pipeline using traditional models like Logistic Regression and Random Forest.jeje
 
 The project emphasizes the practical implementation of machine learning, from data preparation to model evaluation, providing insights into both the strengths and limitations of these methods.
 
